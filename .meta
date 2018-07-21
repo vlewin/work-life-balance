@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "work-life-balance-ui": "git@github.com:vlewin/work-life-balance-ui.git",
+    "work-life-balance-api": "git@github.com:vlewin/work-life-balance-api.git"
+  }
+}
